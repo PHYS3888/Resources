@@ -3,6 +3,8 @@
 
 ## General readings
 
+* The growth of interdisciplinary physics [Article](https://news.northeastern.edu/2015/12/14/the-growth-of-physics-research-and-its-changing-impact-on-our-lives/).
+* Strogatz talks about the power of abstraction and emergence, taking the example of synchronization of coupled oscillators. [Youtube Video](https://www.youtube.com/watch?v=kV-pnbtfraE), [TED talk](https://www.youtube.com/watch?v=aSNrKS-sCE0).
 * Interactive examples of complex systems, covering much of the scope of this course: [Complexity Explorables](http://www.complexity-explorables.org/explorables/)
 * Popular science article on emergence. [Link](https://www.quantamagazine.org/digital-alchemist-sharon-glotzer-seeks-rules-of-emergence-20170308/).
 * In Theory video on emergence. [Link](https://www.quantamagazine.org/emergence-how-complex-wholes-emerge-from-simple-parts-20181220/).
@@ -18,6 +20,13 @@ Prokopenko, M. et al. Encyclopedia of Ecology. Encyclopedia of Ecology, 2nd edit
 * Textbook: Network Science, Albert-László Barabási. [Free pdf download](http://networksciencebook.com/).
 
 ## Dynamical Systems
+
+### Textbook
+Strogatz: Nonlinear Dynamics and Chaos (with applications to physics, biology, chemistry, and engineering).
+Information [here](http://www.stevenstrogatz.com/books/nonlinear-dynamics-and-chaos-with-applications-to-physics-biology-chemistry-and-engineering).
+
+### Course
+* Strogatz's video lectures on the topic are free to watch [here](https://cosmolearning.org/courses/nonlinear-dynamics-chaos/)
 
 ### Interactive
 * Explore some beautiful two-dimensional attractors in the [Stranger Things](http://www.complexity-explorables.org/explorables/strange/) explorable.
@@ -63,6 +72,7 @@ Prokopenko, M. et al. Encyclopedia of Ecology. Encyclopedia of Ecology, 2nd edit
 # Brain-Machine Interface Project Resources
 
 ### Videos
+* Elon Musk launches [Neuralink](https://www.youtube.com/watch?v=r-vbh3t7WVI&feature=youtu.be)
 * [Focus with Brain-Sensing Headset & Games](https://www.youtube.com/watch?v=5HIUItIsmLs)
 * [3 Mind Control Device (How to Focus) Invention Ideas](https://www.youtube.com/watch?v=yu01vMEBZ3k)
 * [Neuro Apps EEG Focus Training](https://www.youtube.com/watch?v=jKqZgRPi3qs)
