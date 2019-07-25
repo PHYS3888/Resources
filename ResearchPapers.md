@@ -2,7 +2,7 @@
 
 ## Assessment Details
 
-* 2000 words
+* 1500 words
 * Worth 10%
 * Due 2 weeks after the final PHYS3888 theory component (Week 8).
 
