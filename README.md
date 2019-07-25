@@ -77,20 +77,19 @@ Prokopenko, M. et al. Encyclopedia of Ecology. Encyclopedia of Ecology, 2nd edit
 :scroll: David Mackay's Information Theory, Inference, and Learning Algorithms is a [free pdf download](http://www.inference.org.uk/mackay/itila/book.html).
 
 ### Videos
-* [Evolving an artificial intelligence to drive cars](https://www.youtube.com/watch?v=wL7tSgUpy8w)
-* [AI for playing games](https://www.youtube.com/watch?v=WSW-5m8lRMs)
+* :movie_camera: [Evolving an artificial intelligence to drive cars](https://www.youtube.com/watch?v=wL7tSgUpy8w)
+* :movie_camera: [AI for playing games](https://www.youtube.com/watch?v=WSW-5m8lRMs)
 
-### Platforms for training some reinforcement learning algorithms
-* [Gym](https://gym.openai.com/)
+* :yum: Platform for training some reinforcement learning algorithms [Gym](https://gym.openai.com/)
 
 
 # Interdisciplinary Projects
 
-## Brain-Machine Interface Project
+## Brain-Machine Interface
 
-### Videos
-* Elon Musk launches [Neuralink](https://www.youtube.com/watch?v=r-vbh3t7WVI&feature=youtu.be)
-* [Focus with Brain-Sensing Headset & Games](https://www.youtube.com/watch?v=5HIUItIsmLs)
-* [3 Mind Control Device (How to Focus) Invention Ideas](https://www.youtube.com/watch?v=yu01vMEBZ3k)
-* [Neuro Apps EEG Focus Training](https://www.youtube.com/watch?v=jKqZgRPi3qs)
-* [Neurofeedback](https://www.youtube.com/watch?v=Y4HACYS8MFw)
+* :scroll: :movie_camera: [Measuring alpha waves](https://www.youtube.com/watch?v=Y1tCV9Qopv4&t=1s)
+* :movie_camera: :yum: Elon Musk launches [Neuralink](https://www.youtube.com/watch?v=r-vbh3t7WVI&feature=youtu.be)
+* :movie_camera: :yum: [Focus with Brain-Sensing Headset & Games](https://www.youtube.com/watch?v=5HIUItIsmLs)
+* :movie_camera: :yum: [3 Mind Control Device (How to Focus) Invention Ideas](https://www.youtube.com/watch?v=yu01vMEBZ3k)
+* :movie_camera: :yum: [Neuro Apps EEG Focus Training](https://www.youtube.com/watch?v=jKqZgRPi3qs)
+* :movie_camera: :yum: [Neurofeedback](https://www.youtube.com/watch?v=Y4HACYS8MFw)
