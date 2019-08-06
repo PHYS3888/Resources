@@ -31,6 +31,19 @@ PNAS (2017).
 
 ---
 
+### History of art paintings through the lens of entropy and complexity (2018)
+
+> Our research shows that simple physics-inspired metrics that are estimated from local spatial ordering patterns in paintings encode crucial information about the artwork. We present numerical scales that map well to canonical concepts in art history and reveal a historical and measurable evolutionary trend in visual arts. They also allow us to distinguish different artistic styles and artworks based on the degree of local order in the paintings.
+
+![](figs/HistoryArt.png)
+
+
+Sigaki et al. PNAS __115__, 201800083 (2018).
+[Link to article](https://dx.doi.org/10.1073/pnas.1800083115).
+
+
+---
+
 ### Spreading of memes through physics literature (2014)
 
 Can you automatically find new ideas in physics that propagate across different scientific papers?
@@ -107,11 +120,15 @@ Phys. Rev. Lett. 122, 128301 (2019).
 [Link to article](https://doi.org/10.1103/PhysRevLett.122.208101).
 [Overview summary](https://physics.aps.org/synopsis-for/10.1103/PhysRevLett.122.208101).
 
+---
+
 ### A phase transition in language learning (2019)
 
 How do children learn the complex structure of language?
 
 > "Physicist Eric DeGiuli of the École Normale Supérieure in Paris proposes that CFGs can be treated as if they are physical objects, with a “surface” consisting of all possible arrangements of words into sentences, including, in principle, nonsensical ones. His idea is that children instinctively deduce the “deep” grammar rules as they are exposed to the tree’s “surface” (sentences they hear). Learning the rules that allow some sentences but not others, he says, amounts to the child assigning weights to the branches and constantly adjusting these weights in response to the language she hears. Eventually, the branches leading to ungrammatical sentences acquire very small weights, and those sentences are recognized as improbable. These many word configurations, DeGiuli says, are like the microstates in statistical mechanics—the set of all possible arrangements of a system’s constituent particles."
+
+---
 
 __Random Language Model__
 E. DeGiuli
@@ -119,6 +136,8 @@ Phys. Rev. Lett. 122, 128301 (2019).
 
 [Link to article](https://doi.org/10.1103/PhysRevLett.122.128301).
 [Overview summary](https://physics.aps.org/articles/v12/35).
+
+---
 
 ### Network control principles predict neuron function in the Caenorhabditis elegans connectome (2018)
 

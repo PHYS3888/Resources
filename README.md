@@ -22,7 +22,7 @@ Prokopenko, M. et al. Encyclopedia of Ecology. Encyclopedia of Ecology, 2nd edit
 ## Module 2: Complex Networks
 
 ### Textbook
-:scroll: Network Science, Albert-László Barabási. [Free pdf download](http://networksciencebook.com/).
+:scroll: Network Science, Albert-László Barabási. [Free to read online](http://networksciencebook.com/).
 
 ### Interactive
 * :yum: :star2: See how society can fragment into [echo chambers](http://www.complexity-explorables.org/explorables/loyale-with-cheese/) in this dynamical rewiring network explorable.
