@@ -16,7 +16,7 @@ Highly recommended to read the Nature Reviews Physics Perspective: [Taking censu
 
 # List of Suggested Research Papers
 
-Here is a list of suggested research papers for the assignment.
+Here is a list of suggested physics research papers that you might like to select as your featured paper for the PHYS3888 assignment.
 
 ### Structure and tie strengths in mobile communication networks (2017)
 

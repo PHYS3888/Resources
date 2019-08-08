@@ -26,6 +26,8 @@ Prokopenko, M. et al. Encyclopedia of Ecology. Encyclopedia of Ecology, 2nd edit
 
 ### Interactive
 * :yum: :star2: See how society can fragment into [echo chambers](http://www.complexity-explorables.org/explorables/loyale-with-cheese/) in this dynamical rewiring network explorable.
+* :yum: :star2: Spreading of [disease](http://www.complexity-explorables.org/explorables/epidemonic/)
+* :yum: :star2: How [herd immunity](http://www.complexity-explorables.org/explorables/herd/) works.
 
 ### Papers
 
