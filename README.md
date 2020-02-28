@@ -1,9 +1,9 @@
 
 # PHYS3888 Resources
 
-This list will evolve as I become aware of relevant material.
-To avoid getting unwieldy, I will use the following labels:
-* :yum:: just for fun
+This is an evolving list of resources relevant to the modules of PHYS3888.
+Each resource is labeled as follows:
+* :yum:: just for fun (not relevant to any assessment).
 * :scroll:: lecture/tutorial material is taken from here.
 * :book:: article.
 * :movie_camera:: video.
@@ -17,12 +17,17 @@ To avoid getting unwieldy, I will use the following labels:
 * :book: Popular science [article on emergence](https://www.quantamagazine.org/digital-alchemist-sharon-glotzer-seeks-rules-of-emergence-20170308/).
 * :movie_camera: In Theory [video on emergence](https://www.quantamagazine.org/emergence-how-complex-wholes-emerge-from-simple-parts-20181220/).
 * :book: Excellent introduction to Complex Systems:
-Prokopenko, M. et al. Encyclopedia of Ecology. Encyclopedia of Ecology, 2nd edition 546–552 (Elsevier Ltd., 2018). doi:10.1016/B978-0-12-409548-9.10620-7. [Link](https://www.sciencedirect.com/science/article/pii/B9780124095489106207?via%3Dihub).
+Prokopenko, M. et al. Encyclopedia of Ecology. Encyclopedia of Ecology, 2nd edition 546–552 (Elsevier Ltd., 2018). [doi:10.1016/B978-0-12-409548-9.10620-7](https://www.sciencedirect.com/science/article/pii/B9780124095489106207?via%3Dihub).
 
 ## Module 2: Complex Networks
 
 ### Textbook
 :scroll: Network Science, Albert-László Barabási. [Free to read online](http://networksciencebook.com/).
+
+### Videos
+* :yum: :movie_camera: Euler and the first network: [Seven Bridges of Konigsberg](https://www.youtube.com/watch?v=eIb1cz06UwI)
+* :movie_camera: Constructing an adjacency matrix (up to 3:30) [Link](https://www.youtube.com/watch?v=LUDNz2bIjWI).
+* :yum: :movie_camera: Think about how individual zebrafish neurons are wired up, and the physical rules that underly  these complicated activity dynamics: [link](https://www.youtube.com/watch?v=lppAwkek6DI).
 
 ### Interactive
 * :yum: :star2: See how society can fragment into [echo chambers](http://www.complexity-explorables.org/explorables/loyale-with-cheese/) in this dynamical rewiring network explorable.
@@ -40,7 +45,7 @@ Prokopenko, M. et al. Encyclopedia of Ecology. Encyclopedia of Ecology, 2nd edit
 [Information here](http://www.stevenstrogatz.com/books/nonlinear-dynamics-and-chaos-with-applications-to-physics-biology-chemistry-and-engineering).
 
 ### Videos
-* :yum: Strogatz's video lectures on the topic are free to watch [here](https://cosmolearning.org/courses/nonlinear-dynamics-chaos/).
+* :yum: :movie_camera: Strogatz's video lectures on the topic are free to watch [here](https://cosmolearning.org/courses/nonlinear-dynamics-chaos/).
 
 ### Interactive
 * :yum: :star2: Explore some beautiful two-dimensional attractors in the [Stranger Things](http://www.complexity-explorables.org/explorables/strange/) explorable.
@@ -57,7 +62,7 @@ Prokopenko, M. et al. Encyclopedia of Ecology. Encyclopedia of Ecology, 2nd edit
 * :star2: See how simple local rules can lead to realistic group behavior using the [Flock and Roll](http://www.complexity-explorables.org/explorables/orlis-flockn-roll/) explorable. You may also want to explore the related [Into the Dark](http://www.complexity-explorables.org/explorables/into-the-dark/) explorable, where you can find the optimal local rules for fish to collectively find dark areas.
 * :star2: See how a balance between slow driving and fast dissipation can keep a system to self-organize near the critical point in the [Forest fire model](http://www.complexity-explorables.org/explorables/forrestfire/).
 
-### Movies
+### Videos
 
 * :movie_camera: [Forest-fire model simulation](https://www.youtube.com/watch?v=Rl1zv0b4kfc)
 * :movie_camera: [Swarming model](https://www.youtube.com/watch?v=tRwz6_bBFg4)
