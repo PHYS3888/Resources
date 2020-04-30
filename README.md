@@ -9,7 +9,7 @@ Each resource is labeled as follows:
 * :movie_camera:: video.
 * :star2:: interactive resource.
 
-## Module 1: An Introduction to Interdisciplinary Physics
+## An Introduction to Interdisciplinary Physics
 
 * :book: [The growth of interdisciplinary physics](https://news.northeastern.edu/2015/12/14/the-growth-of-physics-research-and-its-changing-impact-on-our-lives/).
 * :movie_camera: Strogatz talks about the power of abstraction and emergence, taking the example of synchronization of coupled oscillators. [Youtube Video](https://www.youtube.com/watch?v=kV-pnbtfraE), [TED talk](https://www.youtube.com/watch?v=aSNrKS-sCE0).
@@ -19,7 +19,7 @@ Each resource is labeled as follows:
 * :book: Excellent introduction to Complex Systems:
 Prokopenko, M. et al. Encyclopedia of Ecology. Encyclopedia of Ecology, 2nd edition 546–552 (Elsevier Ltd., 2018). [doi:10.1016/B978-0-12-409548-9.10620-7](https://www.sciencedirect.com/science/article/pii/B9780124095489106207?via%3Dihub).
 
-## Module 2: Complex Networks
+## Module 1: Complex Networks
 
 ### Textbook
 :scroll: Network Science, Albert-László Barabási. [Free to read online](http://networksciencebook.com/).
@@ -38,7 +38,7 @@ Prokopenko, M. et al. Encyclopedia of Ecology. Encyclopedia of Ecology, 2nd edit
 
 * :scroll: The computer tutorial is based on this research paper: Arnatkeviciūtė et al. [Hub connectivity, neuronal diversity, and gene expression in the Caenorhabditis elegans connectome](http://doi.org/10.1371/journal.pcbi.1005989). _PLoS Computational Biology_ (2018).
 
-## Module 3: Dynamical Systems
+## Module 2: Dynamical Systems
 
 ### Textbook
 :scroll: _Strogatz_: Nonlinear Dynamics and Chaos (with applications to physics, biology, chemistry, and engineering).
@@ -54,7 +54,7 @@ Prokopenko, M. et al. Encyclopedia of Ecology. Encyclopedia of Ecology, 2nd edit
 ### Online course
 * :scroll: Learn how to use the Brain Dynamics Toolbox for simulating and understanding dynamical systems in this 2-3 hour [online course](https://bdtoolbox.org/p/toolbox-basics).
 
-## Criticality
+## Module 3: Criticality
 
 ### Interactive
 * :star2: Consolidate your intuition for continuous phase transitions using the [Ising Model explorable](http://www.complexity-explorables.org/explorables/ising/).
@@ -78,7 +78,7 @@ Prokopenko, M. et al. Encyclopedia of Ecology. Encyclopedia of Ecology, 2nd edit
 * :scroll: Munoz (2018). Colloquium: Criticality and dynamical scaling in living systems. Reviews of Modern Physics, 90(3), 031001. [Link](https://doi.org/10.1103/RevModPhys.90.031001).
 * :scroll: Kern and Stoop, PRL (2003). [Hopf bifurcation in the ear](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.91.128101)
 
-## Physics of Artificial Intelligence
+## Module 4: Building Learning Machines
 
 ### Textbook
 :scroll: David Mackay's Information Theory, Inference, and Learning Algorithms is a [free pdf download](http://www.inference.org.uk/mackay/itila/book.html).
@@ -86,11 +86,10 @@ Prokopenko, M. et al. Encyclopedia of Ecology. Encyclopedia of Ecology, 2nd edit
 ### Videos
 * :movie_camera: [Evolving an artificial intelligence to drive cars](https://www.youtube.com/watch?v=wL7tSgUpy8w)
 * :movie_camera: [AI for playing games](https://www.youtube.com/watch?v=WSW-5m8lRMs)
-
 * :yum: Platform for training some reinforcement learning algorithms [Gym](https://gym.openai.com/)
 
 
-# Interdisciplinary Projects
+# Interdisciplinary Project
 
 ## Brain-Machine Interface
 
