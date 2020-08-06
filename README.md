@@ -1,4 +1,3 @@
-
 # PHYS3888 Resources
 
 This is an evolving list of resources relevant to the modules of PHYS3888.
@@ -9,7 +8,7 @@ Each resource is labeled as follows:
 * :movie_camera:: video.
 * :star2:: interactive resource.
 
-## An Introduction to Interdisciplinary Physics
+## An Introduction to Interdisciplinary Physics and Complex Systems
 
 * :book: [The growth of interdisciplinary physics](https://news.northeastern.edu/2015/12/14/the-growth-of-physics-research-and-its-changing-impact-on-our-lives/).
 * :movie_camera: Strogatz talks about the power of abstraction and emergence, taking the example of synchronization of coupled oscillators. [Youtube Video](https://www.youtube.com/watch?v=kV-pnbtfraE), [TED talk](https://www.youtube.com/watch?v=aSNrKS-sCE0).
@@ -18,6 +17,7 @@ Each resource is labeled as follows:
 * :movie_camera: In Theory [video on emergence](https://www.quantamagazine.org/emergence-how-complex-wholes-emerge-from-simple-parts-20181220/).
 * :book: Excellent introduction to Complex Systems:
 Prokopenko, M. et al. Encyclopedia of Ecology. Encyclopedia of Ecology, 2nd edition 546–552 (Elsevier Ltd., 2018). [doi:10.1016/B978-0-12-409548-9.10620-7](https://www.sciencedirect.com/science/article/pii/B9780124095489106207?via%3Dihub).
+* :book: A great overview of concepts in understanding complex systems by the legend Shalizi: [arXiv article](https://arxiv.org/abs/nlin/0307015v4).
 
 ## Module 1: Complex Networks
 
@@ -34,8 +34,9 @@ Prokopenko, M. et al. Encyclopedia of Ecology. Encyclopedia of Ecology, 2nd edit
 * :yum: :star2: Spreading of [disease](http://www.complexity-explorables.org/explorables/epidemonic/)
 * :yum: :star2: How [herd immunity](http://www.complexity-explorables.org/explorables/herd/) works.
 
-### Papers
+### Articles and Papers
 
+* Complex network notation was used in Wolfram's 2019 claim to have found a 'Path to the Fundamental Theory of Physics', as described in [this article](https://writings.stephenwolfram.com/2020/04/finally-we-may-have-a-path-to-the-fundamental-theory-of-physics-and-its-beautiful/).
 * :scroll: The computer tutorial is based on this research paper: Arnatkeviciūtė et al. [Hub connectivity, neuronal diversity, and gene expression in the Caenorhabditis elegans connectome](http://doi.org/10.1371/journal.pcbi.1005989). _PLoS Computational Biology_ (2018).
 
 ## Module 2: Dynamical Systems
@@ -46,6 +47,7 @@ Prokopenko, M. et al. Encyclopedia of Ecology. Encyclopedia of Ecology, 2nd edit
 
 ### Videos
 * :yum: :movie_camera: Strogatz's video lectures on the topic are free to watch [here](https://cosmolearning.org/courses/nonlinear-dynamics-chaos/).
+* :yum: :movie_camera: Do you really understand eigen-decompositions intuitively?! Check out this [Strogatz video](https://www.youtube.com/watch?v=AXk12z-NGPI&feature=youtu.be).
 
 ### Interactive
 * :yum: :star2: Explore some beautiful two-dimensional attractors in the [Stranger Things](http://www.complexity-explorables.org/explorables/strange/) explorable.
