@@ -46,8 +46,9 @@ Prokopenko, M. et al. Encyclopedia of Ecology. Encyclopedia of Ecology, 2nd edit
 [Information here](http://www.stevenstrogatz.com/books/nonlinear-dynamics-and-chaos-with-applications-to-physics-biology-chemistry-and-engineering).
 
 ### Videos
-* :yum: :movie_camera: Strogatz's video lectures on the topic are free to watch [here](https://cosmolearning.org/courses/nonlinear-dynamics-chaos/).
 * :yum: :movie_camera: Do you really understand eigen-decompositions intuitively?! Check out this [Strogatz video](https://www.youtube.com/watch?v=AXk12z-NGPI&feature=youtu.be).
+* :yum: :movie_camera: An introduction to how [chaotic dynamics](https://youtu.be/ovJcsL7vyrk) can emerge from simple mathematical rules.
+* :yum: :movie_camera: Strogatz's video lectures on the topic are free to watch [here](https://cosmolearning.org/courses/nonlinear-dynamics-chaos/).
 
 ### Interactive
 * :yum: :star2: Explore some beautiful two-dimensional attractors in the [Stranger Things](http://www.complexity-explorables.org/explorables/strange/) explorable.
