@@ -1,11 +1,5 @@
 # PHYS3888 Assignment: Research Paper Summary
 
-### Assessment Details
-
-* 1500 words
-* Worth 10%
-* Due 2 weeks after the final PHYS3888 theory component (Week 8).
-
 ### Description
 
 Please see Canvas for details of the assignment.
