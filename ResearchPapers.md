@@ -4,7 +4,7 @@
 
 Please see Canvas for details of the assignment.
 Be careful to check the assessment structure and criteria, which are focused on your ability to understand the contribution of physics methods to a wide range of problems.
-Note in particular that _you do not need a deep understanding of the paper's technical details to do well on this assignment_.
+Note in particular that _you do not need a comprehensive understanding of the paper's technical details to do well on this assignment_.
 
 Highly recommended to read the Nature Reviews Physics Perspective: [Taking census of physics](https://www.nature.com/articles/s42254-018-0005-3).
 
@@ -18,8 +18,7 @@ Here is a list of suggested physics research papers that you might like to selec
 
 ![](figs/MobileCommunication.png)
 
-Onnela et al.
-PNAS (2017).
+Onnela et al. _PNAS_ (2017).
 
 [Link to article](https://doi.org/10.1073/pnas.0610245104).
 
@@ -31,8 +30,7 @@ PNAS (2017).
 
 ![](figs/HistoryArt.png)
 
-
-Sigaki et al. PNAS __115__, 201800083 (2018).
+Sigaki et al. _PNAS_ (2018).
 [Link to article](https://dx.doi.org/10.1073/pnas.1800083115).
 
 
@@ -47,11 +45,10 @@ Can you automatically find new ideas in physics that propagate across different 
 ![](figs/Memes.png)
 
 __Inheritance Patterns in Citation Networks Reveal Scientific Memes__
-Tobias Kuhn, Matjaž Perc, and Dirk Helbing
-Phys. Rev. X 4, 041036 (2014).
+Kuhn et al. _Physical Review X_ (2014).
 
 [Link to article](https://doi.org/10.1103/PhysRevX.4.041036).
-A summary article is [here](https://physics.aps.org/articles/v7/118).
+[Link to summary article](https://physics.aps.org/articles/v7/118).
 
 ---
 
@@ -61,8 +58,7 @@ A summary article is [here](https://physics.aps.org/articles/v7/118).
 
 ![](figs/CorticalConvolutions.png)
 
-Tallinen et al.
-Nature Physics.
+Tallinen et al. _Nature Physics_ (2016).
 
 [Link to article](dx.doi.org/10.1038/nphys3632)
 
@@ -75,26 +71,11 @@ Nature Physics.
 ![](figs/DictionaryLoops.png)
 
 __Loops and Self-Reference in the Construction of Dictionaries__
-David Levary, Jean-Pierre Eckmann, Elisha Moses, and Tsvi Tlusty
-Phys. Rev. X 2, 031018 (2012).
+Levary et al.
+_Physical Review X_ (2012).
 
 [Link to paper](https://doi.org/10.1103/PhysRevX.2.031018).
 [Link to summary article](https://physics.aps.org/synopsis-for/10.1103/PhysRevX.2.031018)
-
----
-
-### Identification of influential spreaders in complex networks (2010)
-
-> "the most efficient spreaders are those located within the core of the network as identified by the k-shell decomposition analysis"
-
-> "when multiple spreaders are considered simultaneously the distance between them becomes the crucial parameter that determines the extent of the spreading"
-
-![](figs/InfluentialSpreaders.png)
-
-Kitsak et al.
-Nature Physics (2010).
-
-[Link to paper](https://www.nature.com/articles/nphys1746).
 
 ---
 ---
@@ -109,10 +90,22 @@ Do the brain's dynamics and function exploit criticality?
 
 __Criticality between cortical states__
 Fontenele et al.
-Phys. Rev. Lett. 122, 128301 (2019).
+_Physical Review Letters_ __122__, 128301 (2019).
 
 [Link to article](https://doi.org/10.1103/PhysRevLett.122.208101).
 [Overview summary](https://physics.aps.org/synopsis-for/10.1103/PhysRevLett.122.208101).
+
+---
+
+### Arrow of time through classical music (2020)
+
+> Using techniques derived from statistical mechanics—typically used to study large groups of particles—a team of physicists has mathematically measured the “time irreversibility” of more than 8000 pieces of Western classical music
+
+González-Espinoza et al.
+_Physical Review Research_ (2020).
+
+[Link to paper](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.2.033166).
+[Scientific American summary](https://www.scientificamerican.com/article/times-arrow-flies-through-500-years-of-classical-music-physicists-say/).
 
 ---
 
