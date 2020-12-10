@@ -10,7 +10,20 @@ Highly recommended to read the Nature Reviews Physics Perspective: [Taking censu
 
 # List of Suggested Research Papers
 
-Here is a list of suggested physics research papers that you might like to select as your featured paper for the PHYS3888 assignment.
+Here is a list of suggested physics research papers that you might like to select as the paper you summarize for the PHYS3888 assignment.
+
+### The scales of human mobility (2020)
+
+> "The authors analysed GPS location data for hundreds of thousands of people worldwide at a high temporal and spatial resolution, and they inferred the hierarchical structure of each individual’s mobility"
+
+![](figs/MobilityScales.png)
+
+Alessandretti et al. _Nature_ (2020).
+
+[Link to article](https://doi.org/10.1038/s41586-020-2909-1).
+[Link to summary article](https://doi.org/10.1038/d41586-020-03197-1).
+
+---
 
 ### Structure and tie strengths in mobile communication networks (2017)
 
