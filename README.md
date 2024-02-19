@@ -107,7 +107,6 @@ Prokopenko, M. et al. Encyclopedia of Ecology. Encyclopedia of Ecology, 2nd edit
 ## Brain-Machine Interface
 
 - :scroll: :movie_camera: [Measuring alpha waves](https://www.youtube.com/watch?v=Y1tCV9Qopv4&t=1s)
-- :movie_camera: :yum: Elon Musk launches [Neuralink](https://www.youtube.com/watch?v=r-vbh3t7WVI&feature=youtu.be)
 - :movie_camera: :yum: [Focus with Brain-Sensing Headset & Games](https://www.youtube.com/watch?v=5HIUItIsmLs)
 - :movie_camera: :yum: [3 Mind Control Device (How to Focus) Invention Ideas](https://www.youtube.com/watch?v=yu01vMEBZ3k)
 - :movie_camera: :yum: [Neuro Apps EEG Focus Training](https://www.youtube.com/watch?v=jKqZgRPi3qs)
